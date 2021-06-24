@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Leonardo Silva. I'm Full stack developer living in são paulo working for Carguero.
+
+- 🌱 I’m currently learning Elixir and Phoenix. 
+- 📫 How to reach me: email me at kakuzops@gmail.com
+- ⚡ Fun fact: I've read fight club more than 10 times.
+
 <!--
 **kakuzops/kakuzops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
