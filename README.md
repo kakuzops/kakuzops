@@ -6,6 +6,11 @@ I'm Leonardo Silva. I'm Full stack developer living in são paulo working for Ca
 - 📫 How to reach me: email me at kakuzops@gmail.com
 - ⚡ Fun fact: I've read fight club more than 10 times.
 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakuzops&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakuzops&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **kakuzops/kakuzops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
